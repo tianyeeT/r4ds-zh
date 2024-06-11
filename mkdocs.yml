@@ -1,0 +1,6 @@
+site_name: r4ds-zh
+
+theme:
+  name: readthedocs
+  locale: zh
+  highlightjs: true
